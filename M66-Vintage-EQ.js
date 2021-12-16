@@ -43,7 +43,8 @@ out_pin:left output
 out_pin:right output
 
 
-
+// RBJ's Cookbook library
+// Auth: Derek John Evans
 import rbj.jsfx-inc
 
 
